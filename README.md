@@ -1,5 +1,4 @@
 # Bem-vindos :)
-# challenge_ONE_T6
 
 Challenge do projeto ONE Oracle juntamente a Alura Latam.
 
