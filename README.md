@@ -5,7 +5,7 @@ Challenge do projeto ONE Oracle juntamente a Alura Latam.
 
 <br/>
 
-![Presentation]()
+![Presentation](https://github.com/IsadoraVanderlan/challenge_ONE_T6/blob/main/presentation.gif)
 <br/><br/>
 
 # Visualização do Site:
