@@ -8,7 +8,7 @@ Challenge do projeto ONE-T6 Oracle juntamente a Alura Latam.
 ![Presentation](https://github.com/IsadoraVanderlan/challenge_ONE_T6/blob/main/presentation.gif)
 <br/><br/>
 
-# Visualização do Site:
+# Visualização da Pagina:
 <a href="https://isadoravanderlan.github.io/challenge_ONE_T6/">Clallenge ONE-T6
 </a>
 
@@ -28,7 +28,8 @@ Challenge do projeto ONE-T6 Oracle juntamente a Alura Latam.
 - Roxo:  #9563c2;
 - azul: #6dabf6;
 
-  
+
+<br/>
 Este é um projeto que foi feito por mim para o challenge do projeto ONE T6 Oracle juntamente a Alura Latam.
 
 Aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
