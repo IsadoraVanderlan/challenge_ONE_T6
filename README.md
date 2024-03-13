@@ -18,6 +18,9 @@ Challenge do projeto ONE Oracle juntamente a Alura Latam.
 - CSS
 - Javascript
 
+# Fontes:
+- font-family: "Exo 2", sans-serif;
+
 # Cores:
 - background: #0e0e0e;
 - Roxo:  #9563c2;
