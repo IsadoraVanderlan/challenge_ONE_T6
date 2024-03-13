@@ -1,9 +1,28 @@
+# Bem-vindos :)
 # challenge_ONE_T6
-Desafio do Programa T6 ONE - Oracle + Alura 
 
-Olá, você está no repositorio do meu desafio do programa ONE da Oracle + Alura.
-Fique avontade para explorar, você é muito bem vindo 😊.
+Challenge do projeto ONE Oracle juntamente a Alura Latam.
 
-Fontes:
- - font-family: "Exo 2", sans-serif;
- - font-family: "Chakra Petch", sans-serif;
+<br/>
+
+![Presentation]()
+<br/><br/>
+
+# Visualização do Site:
+<a href="">Clallenge ONE-T6
+</a>
+
+<br/>
+
+# Técnicos:
+- HTML
+- CSS
+- Javascript
+
+# Cores:
+- background: #0e0e0e;
+- Roxo:  #9563c2;
+- azul: #6dabf6;
+
+  
+Este é um projeto que foi feito por mim para i challenge do projeto ONE T6 Oracle juntamente a Alura Latam.
