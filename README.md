@@ -9,7 +9,7 @@ Challenge do projeto ONE-T6 Oracle juntamente a Alura Latam.
 <br/><br/>
 
 # Visualização do Site:
-<a href="">Clallenge ONE-T6
+<a href="https://isadoravanderlan.github.io/challenge_ONE_T6/">Clallenge ONE-T6
 </a>
 
 <br/>
